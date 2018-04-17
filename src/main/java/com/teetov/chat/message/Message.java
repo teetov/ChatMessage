@@ -11,7 +11,6 @@ public class Message implements Serializable{
 	private Calendar departureTime;
 	private String senderAddress;
 	private int destination;
-	
 		
 	public Message(String message, String name, String senderAddress, int destination) {
 		this.body = message;

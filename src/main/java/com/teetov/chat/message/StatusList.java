@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class StatusList {
+	
 	public final static int NONE = 0;
 	public final static int READY = 1;
 	public final static int AFK = 2;

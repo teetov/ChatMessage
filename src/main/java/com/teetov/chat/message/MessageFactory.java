@@ -1,6 +1,7 @@
 package com.teetov.chat.message;
 
 public class MessageFactory {
+	
 	String name;
 	String senderAddress;
 	

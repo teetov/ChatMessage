@@ -68,8 +68,7 @@ public class MessageProtocol {
 	 */
 	public final static int TERMINATE = 6;
 	
-	
-	
+		
 	/**
 	 * Сервер указывает этот параметр в сообщении типа {@code MessageProtocol.INITIALIZE}, 
 	 * если для подключения к нему требуется пароль.
