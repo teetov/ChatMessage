@@ -3,6 +3,6 @@
 
 Связанные проекты: 
 <ul> 
-<li><a href="https://github.com/teetov/ChatClient">ChatMessage</a> - клиентская часть</li> 
+<li><a href="https://github.com/teetov/ChatClient">ChatClient</a> - клиентская часть</li> 
 <li><a href="https://github.com/teetov/ChatServer">ChatServer</a> - серверная часть</li> 
 <ul>
